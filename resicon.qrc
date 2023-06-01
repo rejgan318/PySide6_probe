@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/account_balance_FILL0_wght400_GRAD0_opsz48.png</file>
+    <file>icons/digital_out_of_home_FILL0_wght400_GRAD0_opsz48.png</file>
+    <file>icons/hiking_FILL0_wght400_GRAD0_opsz48.png</file>
+    <file>icons/select_to_speak_FILL0_wght400_GRAD0_opsz48.png</file>
+  </qresource>
+</RCC>
