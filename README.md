@@ -2,7 +2,7 @@
 
 **ImageViewer/** Из офф примеров как заготовка для собственного проекта
 
-**ModelViewExample - todo/** слегка модифицированный пример с [pythonGUIs: The ModelView Architecture](https://www.pythonguis.com/tutorials/pyqt6-modelview-architecture/)
+**ModelViewExample_todo/** слегка модифицированный пример с [pythonGUIs: The ModelView Architecture](https://www.pythonguis.com/tutorials/pyqt6-modelview-architecture/)
 
 **examples/** куча примеров с офф-сайта
 
