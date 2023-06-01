@@ -1,7 +1,6 @@
 """
 from [pythonGUIs: The ModelView Architecture](https://www.pythonguis.com/tutorials/pyqt6-modelview-architecture/)
 """
-
 import sys
 import time
 import traceback

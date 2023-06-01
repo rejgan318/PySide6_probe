@@ -14,4 +14,8 @@
 
 **ui/** .ui files from Qt Designer
 
+----
 
+**simple_app_switch_checked.py** Simple App, switch checked status
+
+**multythread_probe.py, multythread️.md** конспект и модифицированный пример [pythonguis: Multithreading PyQt6 applications with QThreadPool](https://www.pythonguis.com/tutorials/multithreading-pyqt6-applications-qthreadpool/)

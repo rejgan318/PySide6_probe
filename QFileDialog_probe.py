@@ -83,16 +83,13 @@ class MyApp(QWidget):
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
-    app.setStyleSheet('''
-        QWidget {
-            font-size: 20px;
-        }
-    ''')
+    # app.setStyleSheet('''
+    #     QWidget {
+    #         font-size: 18px;
+    #     }
+    # ''')
 
     myApp = MyApp()
     myApp.show()
 
-    try:
-        sys.exit(app.exec())
-    except SystemExit:
-        print('Closing Window...')
+    sys.exit(app.exec())

@@ -8,9 +8,9 @@ class MainWindow(QMainWindow):
 
         self.button_is_checked = True
 
-        self.setWindowTitle("My App")
+        self.setWindowTitle("Simple App, switch checked status")
 
-        button = QPushButton("Press Me!")
+        button = QPushButton("Press for change checked status")
         button.setCheckable(True)
         button.clicked.connect(self.the_button_was_toggled)
         button.setChecked(self.button_is_checked)
