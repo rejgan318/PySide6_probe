@@ -1,0 +1,1 @@
+print("Ну, здравствуй, \nHello World")

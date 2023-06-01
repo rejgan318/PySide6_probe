@@ -18,4 +18,8 @@
 
 **simple_app_switch_checked.py** Simple App, switch checked status
 
-**multythread_probe.py, multythread️.md** конспект и модифицированный пример [pythonguis: Multithreading PyQt6 applications with QThreadPool](https://www.pythonguis.com/tutorials/multithreading-pyqt6-applications-qthreadpool/)
+**multithreading/**
+
+- **multythread_probe.py, multythread️.md** конспект и модифицированный пример [pythonguis: Multithreading PyQt6 applications with QThreadPool](https://www.pythonguis.com/tutorials/multithreading-pyqt6-applications-qthreadpool/)
+
+- **process_probe.py, process_probe_dummy.py** my demo for QProcess; from [pythonGUIs: Using QProcess to run external programs](https://www.pythonguis.com/tutorials/pyqt6-qprocess-external-programs/)
