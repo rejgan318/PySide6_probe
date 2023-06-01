@@ -43,8 +43,8 @@
 #############################################################################
 
 
-from PyQt5.QtCore import QEventLoop, QTime
-from PyQt5.QtWidgets import QApplication, QMessageBox
+from PySide6.QtCore import QEventLoop, QTime
+from PySide6.QtWidgets import QApplication, QMessageBox
 
 from colors import Colors
 from mainwindow import MainWindow

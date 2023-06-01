@@ -1,0 +1,1 @@
+Used in `MacOS.qss` only

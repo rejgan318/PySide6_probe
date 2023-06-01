@@ -16,7 +16,7 @@
 
 ----
 
-**simple_app_switch_checked.py** Simple App, switch checked status
+**app_switch_checked.py** Simple App, switch checked status
 
 **multithreading/**
 
